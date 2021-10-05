@@ -54,7 +54,7 @@ $ expo start
 ```
 
 ### Building
-If you want to build this app, just run the follow command (Android - APK):
+If you want to build this app, just run the command bellow (Android - APK):
 ```
 $ expo build:android -t apk
 ```
