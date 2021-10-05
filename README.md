@@ -15,7 +15,8 @@ I did a few modifications and add new features to the project, but the idea came
 3 - Using context API of React Native </br>
 4 - AsyncStorage to store user schedule data </br>
 5 - API's consumption (Discord developers API) with HTTP Methods and Token Authentication </br>
-6 - Creating my own form validation </br>
+6 - OAuth2 Authentication </br>
+7 - Creating my own form validation </br>
 
 ## About the App
 
