@@ -28,6 +28,7 @@ I did a few modifications and add new features to the project, but the idea came
 - Create appointments with Category, Discord Guild, Date and Description
 - List your Guilds from your Discord account
 - View details of your appointments with users belonging to the same Guild
+- Share appointments
 - Logout
 
 ## Getting Started
