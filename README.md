@@ -1,6 +1,6 @@
 # NLW Together - Gameplay App
 ![alt text](https://github.com/MateusRSitta/NLW-Together-Gameplay-App/blob/main/Frame.jpg?raw=true)
-If you want to look at this app project at Figma, it's <a href="https://www.figma.com/community/file/991338130828322960/GamePlay">here</a>. (By Tiago Luchtenberg)
+If you want to take a look at this app project in Figma, it's <a href="https://www.figma.com/community/file/991338130828322960/GamePlay">here</a>. (By Tiago Luchtenberg)
 
 ## About this project
 Gameplay is an app that helps you to never miss a gaming appointment with your friends!
